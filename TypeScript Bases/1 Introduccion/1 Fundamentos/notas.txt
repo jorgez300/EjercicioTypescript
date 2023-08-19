@@ -1,3 +1,7 @@
+Resumen
+Ejercicio base para la crear la estructura del proyecto y configurar node y typescript
+
+
 Esctructura base
 
 El proyecto debe constar de dos carpetas

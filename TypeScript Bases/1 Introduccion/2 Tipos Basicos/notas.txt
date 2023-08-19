@@ -1,0 +1,16 @@
+Resumen
+Ejercicio base para ejemplificar los tipos de datos basicos
+
+
+
+Recursos
+https://www.w3schools.com/typescript/typescript_simple_types.php
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+
+
+
+
+
+
+
+
