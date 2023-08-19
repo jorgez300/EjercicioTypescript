@@ -1,0 +1,37 @@
+Esctructura base
+
+El proyecto debe constar de dos carpetas
+*Raiz*/build
+*Raiz*/src
+
+
+
+
+Paso 1
+Instalar node.js (version LTS***)
+
+Paso 2
+En la consola ejecutar
+    npm install typescript@latest -g
+
+Paso 3
+En la consola ejecutar el cmd que permite que typescript compile los cambios
+    tsc - w
+Si este proceso no se esta ejecutando no se compilaran automaticamente los js
+
+Paso 4
+La primera vez que se ejecute creara un archivo tsconfig.json
+
+Paso 5 
+En el archivo tsconfig.json buscar los siguientes propiedades y dejar con estos valores
+
+- "outDir": "./build/js" //Carpeta de salida que tendra el js compilado desde typescript
+- "target": "es2016" // Version de js al que sera compilado
+- "rootDir": "./src" // Carpeta donde estan los archivo typescript a ser compilados
+
+
+
+
+
+
+
