@@ -1,0 +1,30 @@
+Resumen
+Clases
+    Tipos de propiedades
+    Valor por defecto
+    Get Set 
+    Metodos
+    Constructores
+    Inicializacion de objetos
+    
+
+Clases estaticas
+
+Interfaces
+    Declaracion
+    Implementacion en clases
+
+Herencia
+    Declaracion
+    Implementacion en clases
+
+
+
+
+
+
+
+
+
+
+

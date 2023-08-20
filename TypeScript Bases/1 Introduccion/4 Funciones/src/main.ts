@@ -142,3 +142,23 @@ funcionF('a', {
     existencia: 0,
     opcional: ""
 });
+
+
+//Retorno de objeto
+const funcionG = (dato1: string, dato2: Producto): Producto => {
+
+    dato2.descripcion = dato1;
+    console.log(dato2);
+
+
+
+    return dato2;
+}
+
+funcionG('a', {
+    id: 0,
+    nombre: "",
+    descripcion: "",
+    existencia: 0,
+    opcional: ""
+});
